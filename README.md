@@ -1,6 +1,6 @@
-#Hi there, good day 👋#
+# Hi there, good day 👋 #
 
-###**I am Naeto** and I gladly ✨ _welcome_ ✨ you to my GitHub profile.###
+### **I am Naeto** and I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
 Here are some ideas to get you started:
 
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I don't joke with food
 - 📫 How to reach me: check my contact mediums below
 
-##Contact##
-~~~~
+## Contact ##
 - [LinkedIn](https://linkedin.com/in/charles-obimnaetochukwu-egesionu/)
 - [Twitter](https://twitter.com/naetocharlie/)
 - [G-mail](https://gmail.com/egesionucharlesobimnaeto@gmail.com/)
-~~~~
