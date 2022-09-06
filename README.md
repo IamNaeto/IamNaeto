@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **IamNaeto/IamNaeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/in/charles-obimnaetochukwu-egesionu
 - 😄 Pronouns: Charlie
 - ⚡ Fun fact: I don't joke with food
--->
