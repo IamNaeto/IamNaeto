@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/naetocharlie/)
 - [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
 
-![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
+![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
