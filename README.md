@@ -1,4 +1,4 @@
-# Hi, I'm Charles 👋 #
+# Hi, I'm Charles. 👋 #
 
 ### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
