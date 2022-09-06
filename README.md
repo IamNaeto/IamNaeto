@@ -1,6 +1,6 @@
-# Hi, good day! 👋 #
+# Hi, I'm Charles 👋 #
 
-### **I am Naeto** and I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
+### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
 Here are some ideas to get you started:
 
