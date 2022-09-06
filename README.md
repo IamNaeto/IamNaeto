@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**IamNaeto/IamNaeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IamNaeto** gladly ✨ _welcome_ ✨ you into his GitHub profile.
 
 Here are some ideas to get you started:
 
