@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## Contact ##
 - [LinkedIn](https://linkedin.com/in/charles-obimnaetochukwu-egesionu/)
 - [Twitter](https://twitter.com/naetocharlie/)
-- [G-mail](https://gmail.com/egesionucharlesobimnaeto@gmail.com/)
+- [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
 
-![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=vision-friendly-dark)
+![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
