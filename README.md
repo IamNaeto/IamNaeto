@@ -1,4 +1,4 @@
-# Hi, I'm Charles. 👋 #
+# Hi, I'm Charles! 👋 #
 
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
 
