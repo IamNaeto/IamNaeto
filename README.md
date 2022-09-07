@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking forward to collaborate on software engineering projects
 - 🤔 I’m looking for help with mastering my skills as a software engineer
 - 💬 Ask me about anything
-- 😄 Pronouns: Charlie
+- 😄 Nickname: Charlie
 - ⚡ Fun fact: I don't joke with food and sleep
 - 📫 How to reach me: check my contact mediums below
 
