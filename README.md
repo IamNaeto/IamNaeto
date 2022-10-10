@@ -16,14 +16,39 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 😄 Nickname: Charlie
 - ⚡ Fun fact: I don't joke with food and sleep
-- 📫 How to reach me: check my contact mediums below
+- 📫 How to reach me: [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
 
-## Contact ##
+## Connect with me: ##
 
 <a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
+<a href="https://twitter.com/naetocharlie/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://codepen.io/iamnaeto/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
+</a>
+
+<a href="https://stackoverflow.com/users/20085737/iamnaeto">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="45" height="45"/>
+</a>
+
+<a href="https://www.figma.com/@iamnaeto">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" width="45" height="45"/>
+</a>
+
+<a href="https://replit.com/@IamNaeto">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png?20190414162605" width="45" height="45"/>
+</a>
+
+<a href="mailto:egesionucharlesobimnaeto@gmail.com">
+<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"width="45" height="45"/>
+</a>
+
+           
 - [LinkedIn](https://linkedin.com/in/charles-obimnaetochukwu-egesionu/)
 - [Twitter](https://twitter.com/naetocharlie/)
 - [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
@@ -44,13 +69,15 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="gcc" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
