@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://codepen.io/iamnaeto/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
-</a>
-
 <a href="https://stackoverflow.com/users/20085737/iamnaeto">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="45" height="45"/>
 </a>
@@ -42,6 +38,10 @@ Here are some ideas to get you started:
 
 <a href="https://replit.com/@IamNaeto">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png?20190414162605" width="45" height="45"/>
+</a>
+
+<a href="https://codepen.io/iamnaeto/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
 </a>
 
 <a href="mailto:egesionucharlesobimnaeto@gmail.com">
