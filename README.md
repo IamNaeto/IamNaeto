@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Connect with me: ##
 
-<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="_blank">
+<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
