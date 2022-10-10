@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Connect with me: ##
 
-<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/">
+<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
 </a>
 
-<a href="mailto:egesionucharlesobimnaeto@gmail.com">
+<a href="https://mailto:egesionucharlesobimnaeto@gmail.com">
 <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"width="45" height="45"/>
 </a>
 
