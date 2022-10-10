@@ -20,35 +20,35 @@ Here are some ideas to get you started:
 
 ## Connect with me: ##
 
-<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/">
+<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://twitter.com/naetocharlie/">
+<a href="https://twitter.com/naetocharlie/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/iam_naetocharlie/">
+<a href="https://www.instagram.com/iam_naetocharlie/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/512px-Instagram.svg.png?20170725025253" width="45" height="45"/>
 </a>
 
-<a href="https://stackoverflow.com/users/20085737/iamnaeto">
+<a href="https://stackoverflow.com/users/20085737/iamnaeto" target="blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="45" height="45"/>
 </a>
 
-<a href="https://www.figma.com/@iamnaeto">
+<a href="https://www.figma.com/@iamnaeto" target="blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </a>
 
-<a href="https://replit.com/@IamNaeto">
+<a href="https://replit.com/@IamNaeto" target="blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png?20190414162605" width="45" height="45"/>
 </a>
 
-<a href="https://codepen.io/iamnaeto/">
+<a href="https://codepen.io/iamnaeto/" target="blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
 </a>
 
-<a href="https://mailto:egesionucharlesobimnaeto@gmail.com">
+<a href="https://mailto:egesionucharlesobimnaeto@gmail.com" target="blank">
 <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"width="45" height="45"/>
 </a>
 
