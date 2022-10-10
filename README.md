@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 😄 Nickname: Charlie
 - ⚡ Fun fact: I don't joke with food and sleep
-- 📫 How to reach me: [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
+- 📫 How to reach me: [<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"width="45" height="45"/>](mailto:egesionucharlesobimnaeto@gmail.com)
 
 ## Connect with me: ##
 
