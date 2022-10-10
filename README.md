@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 - [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
+
 ![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
