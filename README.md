@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Connect with me: ##
 
-<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="_blank">
+<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/ target="_blank"">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.figma.com/@iamnaeto">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </a>
 
 <a href="https://replit.com/@IamNaeto">
@@ -47,11 +47,6 @@ Here are some ideas to get you started:
 <a href="https://mailto:egesionucharlesobimnaeto@gmail.com">
 <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"width="45" height="45"/>
 </a>
-
-           
-- [LinkedIn](https://linkedin.com/in/charles-obimnaetochukwu-egesionu/)
-- [Twitter](https://twitter.com/naetocharlie/)
-- [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
 
 <h2> 🚀 &nbsp;Languages and Tools Used</h2>
 <p align="left">
