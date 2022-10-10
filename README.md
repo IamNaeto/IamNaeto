@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
 
+![](https://komarev.com/ghpvc/?username=IamNaeto&color=blue)
+
 ### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
 Here are some ideas to get you started:
