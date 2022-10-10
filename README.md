@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: check my contact mediums below
 
 ## Contact ##
+
+<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+</a>
+
 - [LinkedIn](https://linkedin.com/in/charles-obimnaetochukwu-egesionu/)
 - [Twitter](https://twitter.com/naetocharlie/)
 - [G-mail](mailto:egesionucharlesobimnaeto@gmail.com)
