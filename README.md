@@ -79,12 +79,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
 
 ![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
 
-<h3>Support: <br /> </h3>
-<p><a href="https://www.buymeacoffee.com/IamNaeto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="IamNaeto" /></a></p>
