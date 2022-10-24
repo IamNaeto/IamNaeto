@@ -1,14 +1,18 @@
-# Hi, I'm Charles! 👋 #
+<h1 align="center">
+Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h1>
 
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
 
 ![](https://komarev.com/ghpvc/?username=IamNaeto&color=blue)
 
+<a href="https://twitter.com/naetocharlie/" alt="twitter"><img src="https://img.shields.io/twitter/follow/naetocharlie?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+
 ### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
 Here are some ideas to get you started:
 
-- 🔭 I’m an entry level frontend developer
+- 🔭 I’m a junior frontend developer
 - 🔭 I’m currently working on my coding skills
 - 🌱 I’m currently a software engineering student at ALX Africa
 - 👯 I’m looking forward to collaborate on software engineering projects
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
 </a>
 
-<a href="https://mailto:egesionucharlesobimnaeto@gmail.com" target="blank">
-<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"width="45" height="45"/>
-</a>
-
 <h2>Languages and Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
@@ -79,8 +79,12 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 </p>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
 
 ![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
+
+<h3>Support: <br /> </h3>
+<p><a href="https://www.buymeacoffee.com/IamNaeto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="IamNaeto" /></a></p>
