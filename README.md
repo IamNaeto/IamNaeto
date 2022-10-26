@@ -4,9 +4,10 @@ Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinH
 
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
 
-![](https://komarev.com/ghpvc/?username=IamNaeto&color=blue)
-
-<a href="https://twitter.com/naetocharlie/" alt="twitter"><img src="https://img.shields.io/twitter/follow/naetocharlie?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+![](https://komarev.com/ghpvc/?username=IamNaeto&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/IamNaeto" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/IamNaeto?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/naetocharlie" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/naetocharlie?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://IamNaeto.github.io/portfolio/)
 
 ### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
