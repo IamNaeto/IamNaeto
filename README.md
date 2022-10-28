@@ -52,6 +52,14 @@ Here are some ideas to get you started:
 <a href="https://codepen.io/iamnaeto/" target="blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
 </a>
+ 
+ <a href="https://https://codesandbox.io/u/iamnaeto" target="blank">
+ <img src="https://cdn.iconscout.com/icon/free/png-256/code-sandbox-3445516-2878443.png" width="45" height="45"/>
+ </a>
+ 
+<a href="https://dev.to/iamnaeto" target="blank">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="45" height="45"/> 
+ </a>
 
 <h2>Languages and Tools</h2>
 <p align="left">
@@ -79,6 +87,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/iamnaeto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
 
