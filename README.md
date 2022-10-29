@@ -7,7 +7,7 @@ Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinH
 ![](https://komarev.com/ghpvc/?username=IamNaeto&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/IamNaeto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IamNaeto?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/naetocharlie" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/naetocharlie?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zuriportfolio-task.iamnaeto.repl.co/)
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zuriportfolio-task.iamnaeto.repl.co/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348178200220)
 
 ### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
