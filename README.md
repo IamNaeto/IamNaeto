@@ -97,3 +97,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
 
+<b>Note:</b> The top languages shown above is just a measure of what I have posted here on Github and not a summary my actual skill level as there are more to those languages shown.
+
+<a href="https://github.com/uyitech/github-readme-activity-graph"><img alt="IamNaeto' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IamNaeto&bg_color=151515&color=FA8B00&line=FA8B00&point=FFFFFF&hide_border=true" /></a>
