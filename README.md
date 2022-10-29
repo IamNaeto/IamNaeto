@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mastering my skills as a software engineer
 - 💬 Ask me about anything
 - 😄 Nickname: Charlie
-- ⚡ Fun fact: There is BIG money in coding!
+- ⚡ Fun fact: There is BIG money in tech!
 - 📫 How to reach me: [Gmail](mailto:egesionucharlesobimnaeto@gmail.com)
 
 ## Connect with me: ##
