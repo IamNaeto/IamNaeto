@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
 </a>
  
- <a href="https://https://codesandbox.io/u/iamnaeto" target="blank">
+ <a href="https://codesandbox.io/u/iamnaeto" target="blank">
  <img src="https://cdn.iconscout.com/icon/free/png-256/code-sandbox-3445516-2878443.png" width="45" height="45"/>
  </a>
  
