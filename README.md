@@ -63,17 +63,17 @@ Here are some ideas to get you started:
  <a href="https://codesandbox.io/u/iamnaeto" target="blank">
  <img src="https://cdn.iconscout.com/icon/free/png-256/code-sandbox-3445516-2878443.png" width="45" height="45"/>
  </a>
- 
+
+<a href="https://www.sololearn.com/profile/19950991" target="blank">
+<img src="https://blob.sololearn.com/avatars/sololearn.png" width="50" height="50"/>
+</a>
+
 <a href="https://dev.to/iamnaeto" target="blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="45" height="45"/> 
  </a>
 
 <a href="https://www.frontendmentor.io/profile/IamNaeto" target="blank">
 <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="45" height="45"/>
-</a>
-
-<a href="https://www.sololearn.com/profile/19950991" target="blank">
-<img src="https://blob.sololearn.com/avatars/sololearn.png" width="55" height="55"/>
 </a>
 
 
