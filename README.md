@@ -72,6 +72,12 @@ Here are some ideas to get you started:
 <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="45" height="45"/>
 </a>
 
+<a href="https://www.sololearn.com/profile/19950991" target="blank">
+<img src="https://blob.sololearn.com/avatars/sololearn.png" width="45" height="45"/>
+</a>
+
+
+
 <h2>Languages and Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
