@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: There is BIG money in tech!
 - 📫 How to reach me: [Gmail](mailto:egesionucharlesobimnaeto@gmail.com)
 
+## Soft skills: ##
+- Work collaboratively in a team
+- Time management
+- Ability to meet up with tight deadlines
+- Good communication skills.
+- Open source contribution
+
 ## Connect with me: ##
 
 <a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="blank">
@@ -60,6 +67,10 @@ Here are some ideas to get you started:
 <a href="https://dev.to/iamnaeto" target="blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="45" height="45"/> 
  </a>
+
+<a href="https://www.frontendmentor.io/profile/IamNaeto" target="blank">
+<img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="45" height="45"/>
+</a>
 
 <h2>Languages and Tools</h2>
 <p align="left">
