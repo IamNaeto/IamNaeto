@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.sololearn.com/profile/19950991" target="blank">
-<img src="https://blob.sololearn.com/avatars/sololearn.png" width="45" height="45"/>
+<img src="https://blob.sololearn.com/avatars/sololearn.png" width="50" height="50"/>
 </a>
 
 
