@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="45" height="45"/> 
  </a>
 
-<a href="https://www.frontendmentor.io/profile/IamNaeto" target="blank">
+<a href="https://www.frontendmentor.io/profile/IamNaeto" target="_blank">
 <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="45" height="45"/>
 </a>
 
