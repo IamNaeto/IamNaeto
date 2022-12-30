@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 😄 Nickname: Charlie
 - ⚡ Fun fact: There is BIG money in tech!
-- 📧 How to reach me: [Gmail](mailto:egesionucharlesobimnaeto@gmail.com)
+- 📧 How to reach me: [Mail Me](mailto:egesionucharlesobimnaeto@gmail.com)
 - 📝 Know about my experience: Check my [Resume](https://drive.google.com/file/d/1iZQ3qwGZNr2zNSRp4NN-5nCrf3iKE4-l/view?usp=share_link)
 
 ## Soft skills: ##
