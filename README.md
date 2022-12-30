@@ -9,19 +9,20 @@ src="https://img.shields.io/github/followers/IamNaeto?logo=github&style=for-the-
 src="https://img.shields.io/twitter/follow/naetocharlie?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
 /></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamnaeto.github.io/portfolio/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348178200220)
 
-### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
+### I gladly 🧡🧡 _welcome_ 🧡🧡 you to my GitHub profile. ###
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a junior frontend developer
-- 🔭 I’m currently working on my coding skills
+- 💻 I’m a junior frontend developer
+- ⏳ I’m currently working on my coding skills
 - 🌱 I’m currently a software engineering student at ALX Africa
 - 👯 I’m looking forward to collaborate on software engineering projects
 - 🤔 I’m looking for help with mastering my skills as a software engineer
 - 💬 Ask me about anything
 - 😄 Nickname: Charlie
 - ⚡ Fun fact: There is BIG money in tech!
-- 📫 How to reach me: [Gmail](mailto:egesionucharlesobimnaeto@gmail.com)
+- 📧 How to reach me: [Gmail](mailto:egesionucharlesobimnaeto@gmail.com)
+- 📝 Know about my experience: Check my [Resume](https://drive.google.com/file/d/1iZQ3qwGZNr2zNSRp4NN-5nCrf3iKE4-l/view?usp=share_link)
 
 ## Soft skills: ##
 - Work collaboratively in a team
