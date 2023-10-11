@@ -2,6 +2,8 @@
 Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&center=true&vCenter=true&width=1000&size=30&lines=Software+Engineer-Frontend;React+Developer;UI/UX+Designer;Virtual+Assitant)](https://git.io/typing-svg)
+
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
 
 ![](https://komarev.com/ghpvc/?username=IamNaeto&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/IamNaeto" target="_blank" rel="noreferrer"><img
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mastering my skills as a software engineer
 - 💬 Ask me about anything
 - 😄 Nickname: Charlie
-- ⚡ Fun fact: There is BIG money in tech!
+- ⚡ Fun fact: I switched career to tech thinking it's an easy ride. Lmao!!! E hard die, though it's doable.
 - 📧 How to reach me: [Mail Me](mailto:egesionucharlesobimnaeto@gmail.com)
 - 📝 Want to know more about me and my experience: Check my [Resume](https://drive.google.com/file/d/1iZQ3qwGZNr2zNSRp4NN-5nCrf3iKE4-l/view?usp=share_link)
 
@@ -82,31 +84,36 @@ Here are some ideas to get you started:
 </a>
 
 
+<div align="left">
+  <h2> <strong> 📚 Education </strong> </h2>
+  <a href="https://www.codewars.com/users/IamNaeto" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+  </a>
+
+  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/IamNaeto" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/IamNaeto/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.sololearn.com/profile/9696303/" target="_blank">
+    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
+  </a>
+
+  <a href="https://www.udemy.com/user/charles-obimnaeto-egesionu/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  </a>
+</div>
+
 <h2>Languages and Tools</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactjs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="gcc" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,c,py,bootstrap,firebase,mongodb,mysql,postman,linux,vim,vscode,netlify,vercel,figma" alt="skills logos" />
 </p>
 
 <h2 align="left">Support:</h2>
@@ -118,6 +125,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://github.com/uyitech/github-readme-activity-graph"><img alt="IamNaeto' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IamNaeto&bg_color=151515&color=FA8B00&line=FA8B00&point=FFFFFF&hide_border=true" /></a>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamNaeto&custom_title=IamNaeto's%20GitHub%20Activity%20Graph&bg_color=151515&color=fb8c00&line=fff&point=fb8c00&area_color=fb8c00&title_color=fb8c00&area=true" alt="Charles Obimnaeto Egesionu's Github Activity Graph" width="100%">
+</div>
 
 <b>Note:</b> The top languages shown above is just a measure of what I have posted here on Github and not a summary of my actual skill level as there are more to those languages shown.
