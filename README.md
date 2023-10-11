@@ -15,12 +15,12 @@ src="https://img.shields.io/twitter/follow/naetocharlie?logo=twitter&style=for-t
 
 Here are some ideas to get you started:
 
-- 💻 I’m a junior frontend developer
-- ⏳ I’m currently working on my coding skills
-- 🌱 I’m currently a software engineering student at ALX Africa
-- 👯 I’m looking forward to collaborate on software engineering projects
-- 🤔 I’m looking for help with mastering my skills as a software engineer
-- 💬 Ask me about anything
+- 💻 I’m a frontend software engineer
+- ⏳ I’m currently mastering my coding skills
+- 🌱 I’m currently building projects, collaborating and contributing to open source
+- 👯 I’m looking forward to connecting with more software engineers and collaborating with then on software engineering projects
+- 🤔 I’m looking for help with getting gigs, connections, paid internships and work opportunities
+- 💬 Ask me about anything frontend related
 - 😄 Nickname: Charlie
 - ⚡ Fun fact: I switched career to tech thinking it's an easy ride. Lmao!!! E hard die, though it's doable.
 - 📧 How to reach me: [Mail Me](mailto:egesionucharlesobimnaeto@gmail.com)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Good communication skills.
 - Open source contribution
 
-## Connect with me: ##
+## ✉️ Connect with me: ##
 
 <a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<h2>Languages and Tools</h2>
+<h2> ⚙️ Languages and Tools</h2>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,c,py,bootstrap,firebase,mongodb,mysql,postman,linux,vim,vscode,netlify,vercel,figma" alt="skills logos" />
 </p>
