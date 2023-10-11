@@ -2,7 +2,7 @@
 Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&center=true&vCenter=true&width=1000&size=30&lines=Software+Engineer-Frontend;React+Developer;UI/UX+Designer;Virtual+Assitant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&center=true&vCenter=true&width=1000&size=30&lines=Software+Engineer+-+Frontend;React+Developer;UI/UX+Designer;Virtual+Assitant)](https://git.io/typing-svg)
 
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
 
