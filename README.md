@@ -7,7 +7,7 @@ Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinH
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
+![White Minimalist Profile LinkedIn Banner](https://github.com/IamNaeto/IamNaeto/assets/105589308/448f9abb-5d72-4bfd-9f31-9b332da9eb71)
 
 ![](https://komarev.com/ghpvc/?username=IamNaeto&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/IamNaeto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IamNaeto?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/naetocharlie" target="_blank" rel="noreferrer"><img
