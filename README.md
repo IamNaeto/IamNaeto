@@ -12,7 +12,7 @@ Hi, I'm Charles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinH
 ![](https://komarev.com/ghpvc/?username=IamNaeto&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/IamNaeto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IamNaeto?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/naetocharlie" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/naetocharlie?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamnaeto.github.io/portfolio/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348178200220)
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamnaeto.vercel.app/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348178200220)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ### I gladly 🧡🧡 _welcome_ 🧡🧡 you to my GitHub profile. ###
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://codepen.io/iamnaeto/" target="blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
+ <img src="https://www.svgrepo.com/show/488549/codepen.svg" width="45" height="45"/>
 </a>
  
  <a href="https://codesandbox.io/u/iamnaeto" target="blank">
