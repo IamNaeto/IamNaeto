@@ -133,7 +133,9 @@ Here are some ideas to get you started:
 ![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
-<br><br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31q76hwxzvaop7qy2ddqkz6op4ty&width=1000&count=10&unique=true)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <div align="center">
