@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Nickname: Naeto or Charlie
 - ⚡ Fun fact: I switched career to tech thinking it's an easy ride. Lmao!!! E hard die, though it's doable.
 - 📧 How to reach me: [Mail Me](mailto:egesionucharlesobimnaeto@gmail.com)
-- 📝 Want to know more about me and my experience: Check my [Resume](https://drive.google.com/file/d/1qgFJWtLgyA1HWCzvLS8GIdl-baixVwab/view?usp=sharing)
+- 📝 Want to know more about me and my experience: Check my [Resume](https://drive.google.com/file/d/1brm9PEF5xqBlG6JXJQhhB47_2voGjMF3/view?usp=sharing)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Soft skills: ##
